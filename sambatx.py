@@ -202,7 +202,7 @@ def logo():
 ### MENU ###
 def menu_dev():
 	logo()
-	print(" [*] IG TOOLS    : SAMBATX TEAM
+	print(" [*] IG TOOLS    : SAMBATX TEAM ")
 	print(" [*] Bergabung   : %s"%(tgl))
 	print(" [*] ---------------------------------------------")
 	print(" [*] Status      : %sAKTIF%s"% (H,N))
